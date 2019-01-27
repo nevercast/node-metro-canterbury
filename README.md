@@ -37,3 +37,7 @@ metro.platformEta(1).then(timetable => timetable.forEach(
 ## Note:
 
 The data may appear sorted from earliest arrival to latest arrival. This sorting is provided by the server endpoint and is not handled by this library. Hence, it may change without notice. If you require the data to be sorted by time you may wish to sort it yourself.
+
+## Fair Usage
+
+The public facing website queries this API at most, every 30 seconds. Out of fair usage, please do not query the API more often than every 30 seconds. We want this service to remain public for the foreseeable future. Cheers.
