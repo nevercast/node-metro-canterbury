@@ -41,3 +41,10 @@ The data may appear sorted from earliest arrival to latest arrival. This sorting
 ## Fair Usage
 
 The public facing website queries this API at most, every 30 seconds. Out of fair usage, please do not query the API more often than every 30 seconds. We want this service to remain public for the foreseeable future. Cheers.
+
+## TODO
+
+* Add browser bundle so it may be used client side in the browser [#1](https://github.com/nevercast/node-metro-canterbury/issues/1)
+* Add CI/CD with Travis [#2](https://github.com/nevercast/node-metro-canterbury/issues/1)
+* Add tests & coverage [#3](https://github.com/nevercast/node-metro-canterbury/issues/1)
+* Add dependency watching & security auditing to the build process [#4](https://github.com/nevercast/node-metro-canterbury/issues/1)
