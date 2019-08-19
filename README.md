@@ -1,6 +1,6 @@
 # North Canterbury Metro Bus Service Query Library
 
-[![Build Status](https://travis-ci.org/nevercast/node-metro-canterbury.svg?branch=master)](https://travis-ci.org/nevercast/node-metro-canterbury)
+[![Build Status](https://travis-ci.org/nevercast/node-metro-canterbury.svg?branch=master)](https://travis-ci.org/nevercast/node-metro-canterbury) [![Greenkeeper badge](https://badges.greenkeeper.io/nevercast/node-metro-canterbury.svg)](https://greenkeeper.io/)
 
 
 Query North Canterbury's Metro Bus Service Public API for timetables at a bus stop.
