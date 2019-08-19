@@ -3,5 +3,5 @@ before_script:
   - npm install -g retire
 script:
   - npm audit
-  - retire && echo "== Retire audit okay ==" || echo "== Retire audit fail =="
+  - retire
   - npm test 
