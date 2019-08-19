@@ -3,9 +3,6 @@ node_js:
   - lts/*
   - lts/dubnium
   - lts/carbon
-  - lts/boron
-  - lts/argon 
-  - stable
   - node
 before_script:
   - npm install -g retire
