@@ -9,6 +9,9 @@
   "scripts": {
     "test": "echo \"Tests missing, returning OKAY.\""
   },
+  "engines": {
+    "node": "^8 || ^10 || ^12"
+  },
   "author": "Josh Lloyd <j.nevercast@gmail.com",
   "license": "ISC",
   "dependencies": {
