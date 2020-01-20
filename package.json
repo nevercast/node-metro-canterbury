@@ -16,7 +16,7 @@
   "author": "Josh Lloyd <j.nevercast@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.0.1",
     "unescape": "^1.0.1"
   }
 }
